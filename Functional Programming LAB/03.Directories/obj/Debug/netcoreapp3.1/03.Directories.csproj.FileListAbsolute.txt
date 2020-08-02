@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\bin\Debug\netcoreapp3.1\03.Directories.exe
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\bin\Debug\netcoreapp3.1\03.Directories.deps.json
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\bin\Debug\netcoreapp3.1\03.Directories.runtimeconfig.json
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\bin\Debug\netcoreapp3.1\03.Directories.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\bin\Debug\netcoreapp3.1\03.Directories.dll
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\bin\Debug\netcoreapp3.1\03.Directories.pdb
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\obj\Debug\netcoreapp3.1\03.Directories.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\obj\Debug\netcoreapp3.1\03.Directories.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\obj\Debug\netcoreapp3.1\03.Directories.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\obj\Debug\netcoreapp3.1\03.Directories.AssemblyInfo.cs
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\obj\Debug\netcoreapp3.1\03.Directories.dll
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\obj\Debug\netcoreapp3.1\03.Directories.pdb
+C:\Users\N1\source\repos\Functional Programming LAB\03.Directories\obj\Debug\netcoreapp3.1\03.Directories.genruntimeconfig.cache

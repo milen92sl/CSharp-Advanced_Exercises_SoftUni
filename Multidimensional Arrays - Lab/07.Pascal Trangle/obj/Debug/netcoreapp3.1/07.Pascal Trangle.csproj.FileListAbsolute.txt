@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\bin\Debug\netcoreapp3.1\07.Pascal Trangle.exe
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\bin\Debug\netcoreapp3.1\07.Pascal Trangle.deps.json
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\bin\Debug\netcoreapp3.1\07.Pascal Trangle.runtimeconfig.json
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\bin\Debug\netcoreapp3.1\07.Pascal Trangle.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\bin\Debug\netcoreapp3.1\07.Pascal Trangle.dll
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\bin\Debug\netcoreapp3.1\07.Pascal Trangle.pdb
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\obj\Debug\netcoreapp3.1\07.Pascal Trangle.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\obj\Debug\netcoreapp3.1\07.Pascal Trangle.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\obj\Debug\netcoreapp3.1\07.Pascal Trangle.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\obj\Debug\netcoreapp3.1\07.Pascal Trangle.AssemblyInfo.cs
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\obj\Debug\netcoreapp3.1\07.Pascal Trangle.dll
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\obj\Debug\netcoreapp3.1\07.Pascal Trangle.pdb
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\07.Pascal Trangle\obj\Debug\netcoreapp3.1\07.Pascal Trangle.genruntimeconfig.cache

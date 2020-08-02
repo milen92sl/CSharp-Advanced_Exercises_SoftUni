@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\bin\Debug\netcoreapp3.1\04.Add_vAT.exe
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\bin\Debug\netcoreapp3.1\04.Add_vAT.deps.json
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\bin\Debug\netcoreapp3.1\04.Add_vAT.runtimeconfig.json
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\bin\Debug\netcoreapp3.1\04.Add_vAT.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\bin\Debug\netcoreapp3.1\04.Add_vAT.dll
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\bin\Debug\netcoreapp3.1\04.Add_vAT.pdb
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\obj\Debug\netcoreapp3.1\04.Add_vAT.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\obj\Debug\netcoreapp3.1\04.Add_vAT.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\obj\Debug\netcoreapp3.1\04.Add_vAT.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\obj\Debug\netcoreapp3.1\04.Add_vAT.AssemblyInfo.cs
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\obj\Debug\netcoreapp3.1\04.Add_vAT.dll
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\obj\Debug\netcoreapp3.1\04.Add_vAT.pdb
+C:\Users\N1\source\repos\Functional Programming LAB\04.Add_vAT\obj\Debug\netcoreapp3.1\04.Add_vAT.genruntimeconfig.cache

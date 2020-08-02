@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.exe
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.deps.json
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.json
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfo.cs
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Users\N1\source\repos\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.ComparingObjects.genruntimeconfig.cache

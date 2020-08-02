@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\bin\Debug\netcoreapp3.1\01SpaceshipCrafting.exe
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\bin\Debug\netcoreapp3.1\01SpaceshipCrafting.deps.json
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\bin\Debug\netcoreapp3.1\01SpaceshipCrafting.runtimeconfig.json
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\bin\Debug\netcoreapp3.1\01SpaceshipCrafting.runtimeconfig.dev.json
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\bin\Debug\netcoreapp3.1\01SpaceshipCrafting.dll
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\bin\Debug\netcoreapp3.1\01SpaceshipCrafting.pdb
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\obj\Debug\netcoreapp3.1\01SpaceshipCrafting.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\obj\Debug\netcoreapp3.1\01SpaceshipCrafting.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\obj\Debug\netcoreapp3.1\01SpaceshipCrafting.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\obj\Debug\netcoreapp3.1\01SpaceshipCrafting.AssemblyInfo.cs
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\obj\Debug\netcoreapp3.1\01SpaceshipCrafting.dll
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\obj\Debug\netcoreapp3.1\01SpaceshipCrafting.pdb
+C:\Users\N1\source\repos\ExamPrepAdvanced04\01SpaceshipCrafting\obj\Debug\netcoreapp3.1\01SpaceshipCrafting.genruntimeconfig.cache

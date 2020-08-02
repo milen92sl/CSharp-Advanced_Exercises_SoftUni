@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\bin\Debug\netcoreapp3.1\04 FastFood.exe
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\bin\Debug\netcoreapp3.1\04 FastFood.deps.json
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\bin\Debug\netcoreapp3.1\04 FastFood.runtimeconfig.json
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\bin\Debug\netcoreapp3.1\04 FastFood.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\bin\Debug\netcoreapp3.1\04 FastFood.dll
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\bin\Debug\netcoreapp3.1\04 FastFood.pdb
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\obj\Debug\netcoreapp3.1\04 FastFood.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\obj\Debug\netcoreapp3.1\04 FastFood.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\obj\Debug\netcoreapp3.1\04 FastFood.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\obj\Debug\netcoreapp3.1\04 FastFood.AssemblyInfo.cs
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\obj\Debug\netcoreapp3.1\04 FastFood.dll
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\obj\Debug\netcoreapp3.1\04 FastFood.pdb
+C:\Users\N1\source\repos\Exercise Stacks and Queues\4\obj\Debug\netcoreapp3.1\04 FastFood.genruntimeconfig.cache

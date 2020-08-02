@@ -1,0 +1,12 @@
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Odd Line2.exe
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Odd Line2.deps.json
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Odd Line2.runtimeconfig.json
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Odd Line2.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Odd Line2.dll
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Odd Line2.pdb
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Odd Line2.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Odd Line2.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Odd Line2.AssemblyInfo.cs
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Odd Line2.dll
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Odd Line2.pdb
+C:\Users\N1\source\repos\Functional Programming LAB\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Odd Line2.genruntimeconfig.cache

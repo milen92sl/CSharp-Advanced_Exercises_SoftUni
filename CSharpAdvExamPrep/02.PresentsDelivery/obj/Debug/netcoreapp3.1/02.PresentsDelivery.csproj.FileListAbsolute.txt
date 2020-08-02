@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\bin\Debug\netcoreapp3.1\02.PresentsDelivery.exe
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\bin\Debug\netcoreapp3.1\02.PresentsDelivery.deps.json
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\bin\Debug\netcoreapp3.1\02.PresentsDelivery.runtimeconfig.json
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\bin\Debug\netcoreapp3.1\02.PresentsDelivery.runtimeconfig.dev.json
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\bin\Debug\netcoreapp3.1\02.PresentsDelivery.dll
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\bin\Debug\netcoreapp3.1\02.PresentsDelivery.pdb
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\obj\Debug\netcoreapp3.1\02.PresentsDelivery.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\obj\Debug\netcoreapp3.1\02.PresentsDelivery.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\obj\Debug\netcoreapp3.1\02.PresentsDelivery.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\obj\Debug\netcoreapp3.1\02.PresentsDelivery.AssemblyInfo.cs
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\obj\Debug\netcoreapp3.1\02.PresentsDelivery.dll
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\obj\Debug\netcoreapp3.1\02.PresentsDelivery.pdb
+C:\Users\N1\source\repos\CSharpAdvExamPrep\02.PresentsDelivery\obj\Debug\netcoreapp3.1\02.PresentsDelivery.genruntimeconfig.cache

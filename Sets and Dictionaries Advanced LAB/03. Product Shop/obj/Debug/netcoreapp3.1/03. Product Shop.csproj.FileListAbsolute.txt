@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.exe
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.deps.json
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.json
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.dll
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.pdb
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfo.cs
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.dll
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.pdb
+C:\Users\N1\source\repos\Sets and Dictionaries Advanced LAB\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.genruntimeconfig.cache

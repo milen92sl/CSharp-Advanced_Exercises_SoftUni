@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\bin\Debug\netcoreapp3.1\01DatingApp.exe
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\bin\Debug\netcoreapp3.1\01DatingApp.deps.json
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\bin\Debug\netcoreapp3.1\01DatingApp.runtimeconfig.json
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\bin\Debug\netcoreapp3.1\01DatingApp.runtimeconfig.dev.json
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\bin\Debug\netcoreapp3.1\01DatingApp.dll
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\bin\Debug\netcoreapp3.1\01DatingApp.pdb
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\obj\Debug\netcoreapp3.1\01DatingApp.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\obj\Debug\netcoreapp3.1\01DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\obj\Debug\netcoreapp3.1\01DatingApp.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\obj\Debug\netcoreapp3.1\01DatingApp.AssemblyInfo.cs
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\obj\Debug\netcoreapp3.1\01DatingApp.dll
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\obj\Debug\netcoreapp3.1\01DatingApp.pdb
+C:\Users\N1\source\repos\AdvanceExamPrep02\01DatingApp\obj\Debug\netcoreapp3.1\01DatingApp.genruntimeconfig.cache

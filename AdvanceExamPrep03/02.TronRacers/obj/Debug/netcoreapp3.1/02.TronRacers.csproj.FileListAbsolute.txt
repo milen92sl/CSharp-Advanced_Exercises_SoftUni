@@ -1,0 +1,12 @@
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.exe
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.deps.json
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.runtimeconfig.json
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.runtimeconfig.dev.json
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.dll
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\bin\Debug\netcoreapp3.1\02.TronRacers.pdb
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.AssemblyInfo.cs
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.dll
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.pdb
+C:\Users\N1\source\repos\AdvanceExamPrep03\02.TronRacers\obj\Debug\netcoreapp3.1\02.TronRacers.genruntimeconfig.cache

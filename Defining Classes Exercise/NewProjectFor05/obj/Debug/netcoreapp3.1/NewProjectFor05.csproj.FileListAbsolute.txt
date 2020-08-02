@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\bin\Debug\netcoreapp3.1\NewProjectFor05.exe
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\bin\Debug\netcoreapp3.1\NewProjectFor05.deps.json
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\bin\Debug\netcoreapp3.1\NewProjectFor05.runtimeconfig.json
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\bin\Debug\netcoreapp3.1\NewProjectFor05.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\bin\Debug\netcoreapp3.1\NewProjectFor05.dll
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\bin\Debug\netcoreapp3.1\NewProjectFor05.pdb
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\obj\Debug\netcoreapp3.1\NewProjectFor05.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\obj\Debug\netcoreapp3.1\NewProjectFor05.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\obj\Debug\netcoreapp3.1\NewProjectFor05.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\obj\Debug\netcoreapp3.1\NewProjectFor05.AssemblyInfo.cs
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\obj\Debug\netcoreapp3.1\NewProjectFor05.dll
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\obj\Debug\netcoreapp3.1\NewProjectFor05.pdb
+C:\Users\N1\source\repos\Defining Classes Exercise\NewProjectFor05\obj\Debug\netcoreapp3.1\NewProjectFor05.genruntimeconfig.cache

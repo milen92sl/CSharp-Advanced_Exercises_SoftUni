@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.exe
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.deps.json
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.runtimeconfig.json
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.dll
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.pdb
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.AssemblyInfo.cs
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.dll
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.pdb
+C:\Users\N1\source\repos\Sets and Dictionaries Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.genruntimeconfig.cache

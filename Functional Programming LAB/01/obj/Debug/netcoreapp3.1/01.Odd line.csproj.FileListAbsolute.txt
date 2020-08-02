@@ -1,0 +1,14 @@
+C:\Users\N1\source\repos\Functional Programming LAB\01\bin\Debug\netcoreapp3.1\01.Odd line.exe
+C:\Users\N1\source\repos\Functional Programming LAB\01\bin\Debug\netcoreapp3.1\01.Odd line.deps.json
+C:\Users\N1\source\repos\Functional Programming LAB\01\bin\Debug\netcoreapp3.1\01.Odd line.runtimeconfig.json
+C:\Users\N1\source\repos\Functional Programming LAB\01\bin\Debug\netcoreapp3.1\01.Odd line.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Functional Programming LAB\01\bin\Debug\netcoreapp3.1\01.Odd line.dll
+C:\Users\N1\source\repos\Functional Programming LAB\01\bin\Debug\netcoreapp3.1\01.Odd line.pdb
+C:\Users\N1\source\repos\Functional Programming LAB\01\obj\Debug\netcoreapp3.1\01.Odd line.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Functional Programming LAB\01\obj\Debug\netcoreapp3.1\01.Odd line.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Functional Programming LAB\01\obj\Debug\netcoreapp3.1\01.Odd line.AssemblyInfo.cs
+C:\Users\N1\source\repos\Functional Programming LAB\01\obj\Debug\netcoreapp3.1\01.Odd line.dll
+C:\Users\N1\source\repos\Functional Programming LAB\01\obj\Debug\netcoreapp3.1\01.Odd line.pdb
+C:\Users\N1\source\repos\Functional Programming LAB\01\obj\Debug\netcoreapp3.1\01.Odd line.genruntimeconfig.cache
+C:\Users\N1\source\repos\Functional Programming LAB\01\bin\Debug\netcoreapp3.1\data\input.txt
+C:\Users\N1\source\repos\Functional Programming LAB\01\obj\Debug\netcoreapp3.1\01.Odd line.csprojAssemblyReference.cache

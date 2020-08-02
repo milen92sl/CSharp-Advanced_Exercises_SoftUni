@@ -1,0 +1,12 @@
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\bin\Debug\netcoreapp3.1\02.Sum matrix Colums.exe
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\bin\Debug\netcoreapp3.1\02.Sum matrix Colums.deps.json
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\bin\Debug\netcoreapp3.1\02.Sum matrix Colums.runtimeconfig.json
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\bin\Debug\netcoreapp3.1\02.Sum matrix Colums.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\bin\Debug\netcoreapp3.1\02.Sum matrix Colums.dll
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\bin\Debug\netcoreapp3.1\02.Sum matrix Colums.pdb
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\obj\Debug\netcoreapp3.1\02.Sum matrix Colums.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\obj\Debug\netcoreapp3.1\02.Sum matrix Colums.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\obj\Debug\netcoreapp3.1\02.Sum matrix Colums.AssemblyInfo.cs
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\obj\Debug\netcoreapp3.1\02.Sum matrix Colums.dll
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\obj\Debug\netcoreapp3.1\02.Sum matrix Colums.pdb
+C:\Users\N1\source\repos\Multidimensional Arrays - Lab\02.Sum matrix Colums\obj\Debug\netcoreapp3.1\02.Sum matrix Colums.genruntimeconfig.cache

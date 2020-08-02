@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.exe
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.deps.json
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.runtimeconfig.json
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.runtimeconfig.dev.json
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.dll
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.pdb
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.AssemblyInfo.cs
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.dll
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.pdb
+C:\Users\N1\source\repos\20.05. CSharp Advanced Stacks and Queues LAB\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.genruntimeconfig.cache

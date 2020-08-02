@@ -1,0 +1,4 @@
+C:\Users\N1\source\repos\Exam 28.06.2020\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Exam 28.06.2020\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Exam 28.06.2020\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Exam 28.06.2020\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.AssemblyInfo.cs

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DatingApp", "DatingApp\01.DatingApp.csproj", "{87AA170B-B498-4F47-AB3A-56D7DA8A47BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BookWorm", "BookWorm\02.BookWorm.csproj", "{83FD7062-4C9B-4F3E-81D1-AF01BE0677CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AA170B-B498-4F47-AB3A-56D7DA8A47BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AA170B-B498-4F47-AB3A-56D7DA8A47BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AA170B-B498-4F47-AB3A-56D7DA8A47BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AA170B-B498-4F47-AB3A-56D7DA8A47BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FD7062-4C9B-4F3E-81D1-AF01BE0677CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FD7062-4C9B-4F3E-81D1-AF01BE0677CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FD7062-4C9B-4F3E-81D1-AF01BE0677CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FD7062-4C9B-4F3E-81D1-AF01BE0677CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057FF4B4-BFEB-4999-8A10-621A63998131}
+	EndGlobalSection
+EndGlobal

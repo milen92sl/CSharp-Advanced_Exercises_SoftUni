@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\bin\Debug\netcoreapp3.1\01ClubParty.exe
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\bin\Debug\netcoreapp3.1\01ClubParty.deps.json
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\bin\Debug\netcoreapp3.1\01ClubParty.runtimeconfig.json
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\bin\Debug\netcoreapp3.1\01ClubParty.runtimeconfig.dev.json
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\bin\Debug\netcoreapp3.1\01ClubParty.dll
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\bin\Debug\netcoreapp3.1\01ClubParty.pdb
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\obj\Debug\netcoreapp3.1\01ClubParty.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\obj\Debug\netcoreapp3.1\01ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\obj\Debug\netcoreapp3.1\01ClubParty.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\obj\Debug\netcoreapp3.1\01ClubParty.AssemblyInfo.cs
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\obj\Debug\netcoreapp3.1\01ClubParty.dll
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\obj\Debug\netcoreapp3.1\01ClubParty.pdb
+C:\Users\N1\source\repos\AdvanceExamPrep03\Club Party\obj\Debug\netcoreapp3.1\01ClubParty.genruntimeconfig.cache

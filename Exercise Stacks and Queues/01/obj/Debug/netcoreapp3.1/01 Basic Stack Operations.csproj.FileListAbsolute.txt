@@ -1,0 +1,12 @@
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.exe
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.deps.json
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.runtimeconfig.json
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.dll
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.pdb
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.AssemblyInfo.cs
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.dll
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.pdb
+C:\Users\N1\source\repos\Exercise Stacks and Queues\01\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.genruntimeconfig.cache

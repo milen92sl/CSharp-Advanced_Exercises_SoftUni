@@ -1,0 +1,12 @@
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\bin\Debug\netcoreapp2.1\03Rabbits.deps.json
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\bin\Debug\netcoreapp2.1\03Rabbits.runtimeconfig.json
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\bin\Debug\netcoreapp2.1\03Rabbits.runtimeconfig.dev.json
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\bin\Debug\netcoreapp2.1\03Rabbits.dll
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\bin\Debug\netcoreapp2.1\03Rabbits.pdb
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\obj\Debug\netcoreapp2.1\03Rabbits.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\obj\Debug\netcoreapp2.1\03Rabbits.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\obj\Debug\netcoreapp2.1\03Rabbits.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\obj\Debug\netcoreapp2.1\03Rabbits.AssemblyInfo.cs
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\obj\Debug\netcoreapp2.1\03Rabbits.dll
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\obj\Debug\netcoreapp2.1\03Rabbits.pdb
+C:\Users\N1\source\repos\AdvanceExamPrep02\03Rabbits\obj\Debug\netcoreapp2.1\03Rabbits.genruntimeconfig.cache

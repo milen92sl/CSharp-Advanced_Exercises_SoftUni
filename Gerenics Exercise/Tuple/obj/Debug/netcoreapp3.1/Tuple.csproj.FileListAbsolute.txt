@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.exe
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.deps.json
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.json
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.dev.json
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfo.cs
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\N1\source\repos\Gerenics Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.genruntimeconfig.cache

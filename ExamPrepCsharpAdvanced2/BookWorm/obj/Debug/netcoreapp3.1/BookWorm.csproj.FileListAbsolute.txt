@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.exe
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.deps.json
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.runtimeconfig.json
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.runtimeconfig.dev.json
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.dll
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.pdb
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.AssemblyInfo.cs
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.dll
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.pdb
+C:\Users\N1\source\repos\ExamPrepCsharpAdvanced2\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.genruntimeconfig.cache

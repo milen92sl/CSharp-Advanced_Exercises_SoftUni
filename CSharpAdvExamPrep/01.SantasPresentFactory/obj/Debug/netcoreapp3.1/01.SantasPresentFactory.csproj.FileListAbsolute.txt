@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\bin\Debug\netcoreapp3.1\01.SantasPresentFactory.exe
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\bin\Debug\netcoreapp3.1\01.SantasPresentFactory.deps.json
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\bin\Debug\netcoreapp3.1\01.SantasPresentFactory.runtimeconfig.json
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\bin\Debug\netcoreapp3.1\01.SantasPresentFactory.runtimeconfig.dev.json
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\bin\Debug\netcoreapp3.1\01.SantasPresentFactory.dll
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\bin\Debug\netcoreapp3.1\01.SantasPresentFactory.pdb
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\obj\Debug\netcoreapp3.1\01.SantasPresentFactory.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\obj\Debug\netcoreapp3.1\01.SantasPresentFactory.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\obj\Debug\netcoreapp3.1\01.SantasPresentFactory.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\obj\Debug\netcoreapp3.1\01.SantasPresentFactory.AssemblyInfo.cs
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\obj\Debug\netcoreapp3.1\01.SantasPresentFactory.dll
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\obj\Debug\netcoreapp3.1\01.SantasPresentFactory.pdb
+C:\Users\N1\source\repos\CSharpAdvExamPrep\01.SantasPresentFactory\obj\Debug\netcoreapp3.1\01.SantasPresentFactory.genruntimeconfig.cache
