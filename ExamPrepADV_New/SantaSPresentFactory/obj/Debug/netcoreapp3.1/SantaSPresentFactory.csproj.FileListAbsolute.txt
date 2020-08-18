@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\bin\Debug\netcoreapp3.1\SantaSPresentFactory.exe
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\bin\Debug\netcoreapp3.1\SantaSPresentFactory.deps.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\bin\Debug\netcoreapp3.1\SantaSPresentFactory.runtimeconfig.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\bin\Debug\netcoreapp3.1\SantaSPresentFactory.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\bin\Debug\netcoreapp3.1\SantaSPresentFactory.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\bin\Debug\netcoreapp3.1\SantaSPresentFactory.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\obj\Debug\netcoreapp3.1\SantaSPresentFactory.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\obj\Debug\netcoreapp3.1\SantaSPresentFactory.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\obj\Debug\netcoreapp3.1\SantaSPresentFactory.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\obj\Debug\netcoreapp3.1\SantaSPresentFactory.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\obj\Debug\netcoreapp3.1\SantaSPresentFactory.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\obj\Debug\netcoreapp3.1\SantaSPresentFactory.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\SantaSPresentFactory\obj\Debug\netcoreapp3.1\SantaSPresentFactory.genruntimeconfig.cache

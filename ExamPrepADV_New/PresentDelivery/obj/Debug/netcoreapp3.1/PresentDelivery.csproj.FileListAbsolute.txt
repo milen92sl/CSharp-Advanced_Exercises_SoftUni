@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.exe
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.deps.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.runtimeconfig.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.genruntimeconfig.cache
