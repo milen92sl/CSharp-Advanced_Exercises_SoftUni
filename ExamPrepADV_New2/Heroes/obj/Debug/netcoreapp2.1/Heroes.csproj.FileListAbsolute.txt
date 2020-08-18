@@ -1,0 +1,12 @@
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ExamPrepADV_New2\Heroes\obj\Debug\netcoreapp2.1\Heroes.genruntimeconfig.cache

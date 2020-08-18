@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.exe
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.deps.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.runtimeconfig.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\bin\Debug\netcoreapp3.1\ClubParty.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\ClubParty\obj\Debug\netcoreapp3.1\ClubParty.genruntimeconfig.cache

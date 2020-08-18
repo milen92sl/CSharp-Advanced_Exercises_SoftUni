@@ -1,0 +1,12 @@
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.exe
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.deps.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\ADV_EXAMPREP_NEW\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.genruntimeconfig.cache
