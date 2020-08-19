@@ -1,0 +1,13 @@
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\bin\Debug\netcoreapp3.1\ConsoleExam1.exe
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\bin\Debug\netcoreapp3.1\ConsoleExam1.deps.json
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\bin\Debug\netcoreapp3.1\ConsoleExam1.runtimeconfig.json
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\bin\Debug\netcoreapp3.1\ConsoleExam1.runtimeconfig.dev.json
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\bin\Debug\netcoreapp3.1\ConsoleExam1.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\bin\Debug\netcoreapp3.1\ConsoleExam1.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\obj\Debug\netcoreapp3.1\ConsoleExam1.csprojAssemblyReference.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\obj\Debug\netcoreapp3.1\ConsoleExam1.AssemblyInfoInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\obj\Debug\netcoreapp3.1\ConsoleExam1.AssemblyInfo.cs
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\obj\Debug\netcoreapp3.1\ConsoleExam1.csproj.CoreCompileInputs.cache
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\obj\Debug\netcoreapp3.1\ConsoleExam1.dll
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\obj\Debug\netcoreapp3.1\ConsoleExam1.pdb
+C:\Users\N1\source\repos\C# Advanced Exercises\OnlineRetake19August2020\ConsoleExam1\obj\Debug\netcoreapp3.1\ConsoleExam1.genruntimeconfig.cache
